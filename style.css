@@ -35,3 +35,32 @@ label
 	padding: 12px 12px 12px 0;
 	display: inline-block;
 }
+
+#orakep
+{
+	position: relative;
+	top: 100px;
+}
+
+body
+{
+	background-image: url(img/hatter.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+#vonal
+{
+	background-color: red;
+	height: 20px;
+}
+
+.orszagok
+{
+	font-size: 1.2em;
+	text-align: center;
+	font-style: italic;
+	color: red;
+	list-style-type: none;
+}
